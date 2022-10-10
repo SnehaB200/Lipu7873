@@ -38,7 +38,6 @@
    
 </div>
 
-## snake graph
 ![snake gif](https://github.com/Lipu7873/Lipu7873/blob/output/github-contribution-grid-snake.gif)
 
 
