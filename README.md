@@ -38,7 +38,7 @@
    
    
    
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/Lipu7873/Lipu7873/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
