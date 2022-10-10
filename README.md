@@ -36,11 +36,11 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "swainlipun1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-   
-   
+</div>
+
+## snake graph
 ![snake gif](https://github.com/Lipu7873/Lipu7873/blob/output/github-contribution-grid-snake.gif)
 
-</div>
 
 
 
