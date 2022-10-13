@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 i'm Lipu
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning DSA Bootcamp
